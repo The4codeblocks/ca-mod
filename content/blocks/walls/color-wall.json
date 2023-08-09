@@ -6,7 +6,7 @@
     "health": 800,
     "size": 1,
     "buildVisibility": "shown",
-    "BlockGroup": "walls",
+    "blockGroup": "walls",
     "requirements": [
         "silicon/6",
         "thorium/6",
