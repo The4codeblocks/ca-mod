@@ -1,0 +1,9 @@
+{
+    "hardness": 1,
+    "cost": 5,
+    "radioactivity": 0,
+    "name": "Grass",
+    "color": "89d914FF",
+    "description": "A form of plant that grows on open soil.",
+    "details": "Go touch grass!"
+}
