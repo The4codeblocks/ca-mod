@@ -4,6 +4,7 @@
     "itemsPerSecond": 900,
     "health": 400,
     "size": 3,
+    "rotate": true,
     "buildVisibility": "sandboxOnly",
     "requirements": [],
     "category": "distribution",

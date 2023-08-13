@@ -10,6 +10,7 @@
     "requirements": [
      "plastanium/54"
     ],
+    "rotate": true,
     "category": "defense",
     "research": {
     

@@ -5,6 +5,7 @@
     "size": 3,
     "speed": 32.0,
     "health": 360,
+    "rotate": true,
     "buildVisibility": "shown",
     "category": "distribution",
     "requirements": [

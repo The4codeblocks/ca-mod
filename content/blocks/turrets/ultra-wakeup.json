@@ -175,6 +175,7 @@
 		"beryllium/2500",
 		"tungsten/1000"
 	],
+    "rotate": true,
 	"category": "turret",
 	"research": {
        

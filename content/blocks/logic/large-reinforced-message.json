@@ -10,6 +10,7 @@
         "graphite/40",
         "silicon/16"
     ],
+    "rotate": true,
     "category": "logic",
     "research": {
     

@@ -9,6 +9,7 @@
     "requirements": [
      "phase-fabric/54"
     ],
+    "rotate": true,
     "category": "defense",
     "research": {
     

@@ -20,6 +20,7 @@
         "copper/6",
         "lead/6"
     ],
+    "rotate": true,
     "category": "defense",
     "research": {}
 }

@@ -9,6 +9,7 @@
         "silicon/30",
         "beryllium/2"
     ],
+    "rotate": true,
     "category": "logic",
     "research": {
     

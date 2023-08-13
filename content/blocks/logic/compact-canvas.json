@@ -10,6 +10,7 @@
         "phase-fabric/20",
         "tungsten/10"
     ],
+    "rotate": true,
     "category": "logic",
     "research": {
     

@@ -7,6 +7,7 @@
     "requirements": [
      "beryllium/54"
     ],
+    "rotate": true,
     "category": "defense",
     "research": {
     

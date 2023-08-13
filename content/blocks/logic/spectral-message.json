@@ -9,6 +9,7 @@
         "graphite/2",
         "sandbox-utilities-spectral/5"
     ],
+    "rotate": true,
     "category": "logic",
     "research": {
     

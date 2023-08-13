@@ -11,6 +11,7 @@
         "sandbox-utilities-spectral/20",
         "silicon/4"
     ],
+    "rotate": true,
     "category": "logic",
     "research": {
     

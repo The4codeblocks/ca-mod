@@ -7,6 +7,7 @@
     "maxNewlines": 65535,
     "maxTextLength": 65535,
     "alwaysUnlocked": true,
+    "rotate": true,
     "requirements": [
      "graphite/150",
      "copper/150",

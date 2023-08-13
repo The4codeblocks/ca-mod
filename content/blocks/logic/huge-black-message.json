@@ -12,6 +12,7 @@
         "silicon/20",
         "sandbox-utilities-black/50"
     ],
+    "rotate": true,
     "category": "logic",
     "research": {
     

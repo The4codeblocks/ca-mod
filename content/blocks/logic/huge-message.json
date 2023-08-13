@@ -11,6 +11,7 @@
         "copper/50",
         "silicon/20"
     ],
+    "rotate": true,
     "category": "logic",
     "research": {
     

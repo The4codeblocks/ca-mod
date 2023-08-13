@@ -8,5 +8,6 @@
     "requirements": [],
     "category": "distribution",
     "research": {},
+    "rotate": true,
     "variants": 4
 }

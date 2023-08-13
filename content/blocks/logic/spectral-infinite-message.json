@@ -19,6 +19,7 @@
      "sandbox-utilities-spectral/100",
      "sandbox-utilities-invisible/200"
     ],
+    "rotate": true,
     "category": "logic",
     "research": {
     

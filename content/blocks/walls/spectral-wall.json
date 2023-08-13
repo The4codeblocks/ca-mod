@@ -9,6 +9,7 @@
         "metaglass/6",
         "sandbox-utilities-spectral/6"
     ],
+    "rotate": true,
     "category": "defense",
     "research": {
     

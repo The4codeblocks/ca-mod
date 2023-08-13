@@ -9,6 +9,7 @@
     "buildVisibility": "sandboxOnly",
     "requirements": [],
     "category": "logic",
+    "rotate": true,
     "research": {
     
     }

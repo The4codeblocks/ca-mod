@@ -9,6 +9,7 @@
         "graphite/5",
         "sandbox-utilities-blue/5"
     ],
+    "rotate": true,
     "category": "logic",
     "research": {
     

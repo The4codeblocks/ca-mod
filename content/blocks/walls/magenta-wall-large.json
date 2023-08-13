@@ -8,6 +8,7 @@
         "silicon/24",
         "sandbox-utilities-magenta/24"
     ],
+    "rotate": true,
     "category": "defense",
     "research": {
     

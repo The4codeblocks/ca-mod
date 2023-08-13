@@ -3,6 +3,7 @@
     "name": "Huge Sorter",
     "health": 350,
     "size": 3,
+    "rotate": true,
     "alwaysUnlocked": true,
     "requirements": [
         "copper/10",

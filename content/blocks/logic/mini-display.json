@@ -10,6 +10,7 @@
      "silicon/50",
      "metaglass/50"
     ],
+    "rotate": true,
     "category": "logic",
     "research": {
     
