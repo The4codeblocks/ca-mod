@@ -1,4 +1,4 @@
-# ca-mod
+# sandbox-utilities (Formerly known as ca-mod)
 Aesthetics and convenience mod for roleplay and sandbox players;
 
 Adds features such as:
