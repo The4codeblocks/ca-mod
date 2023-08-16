@@ -1,5 +1,6 @@
-﻿{
-"type": "itemTurret",
+﻿
+{
+"type": "powerTurret",
 "health": 40,
 "name": "Sound Block",
 "description": "Makes a certain noise.",
