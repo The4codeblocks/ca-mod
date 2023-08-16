@@ -1,0 +1,10 @@
+﻿",
+"shootWarmupSpeed": 0,
+"rotateSpeed": 5,       
+"requirements": [
+    "silicon/40",
+    "copper/20"
+],
+"rotate": true,
+"category": "logic"
+}
