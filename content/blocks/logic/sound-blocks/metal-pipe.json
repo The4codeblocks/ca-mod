@@ -1,4 +1,14 @@
-﻿",
+﻿{
+"type": "itemTurret",
+"health": 40,
+"name": "Sound Block",
+"description": "Makes a certain noise.",
+"alwaysUnlocked": true,
+"top": true,
+"size": 1,
+"reload": 1,
+"range": 0,
+"shootSound": "metal-pipe",
 "shootWarmupSpeed": 0,
 "rotateSpeed": 5,       
 "requirements": [
