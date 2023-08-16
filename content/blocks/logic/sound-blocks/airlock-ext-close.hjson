@@ -11,6 +11,7 @@
 "size": 1,
 "reload": 1,
 "range": 0,
+"shootType": {collides: false}
 "shootSound": "airlock-ext-close",
 "shootWarmupSpeed": 0,
 "rotateSpeed": 5,       
