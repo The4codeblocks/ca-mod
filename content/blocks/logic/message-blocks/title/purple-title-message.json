@@ -1,14 +1,15 @@
 {    
     "type": "MessageBlock",
-    "name": "Title Message",
-    "health": 160,
+    "name": "Purple Title Message",
+    "health": 40,
     "size": 1,
     "maxTextLength": 440,
     "alwaysUnlocked": true,
     "requirements": [
         "copper/5",
         "graphite/5",
-        "silicon/2"
+        "silicon/2",
+        "sandbox-utilities-purple/5"
     ],
     "rotate": true,
     "category": "logic"
