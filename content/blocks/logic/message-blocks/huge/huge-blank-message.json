@@ -2,7 +2,7 @@
     "type": "MessageBlock",
     "name": "Huge Blank Message",
     "health": 40,
-    "size": 2,
+    "size": 3,
     "maxNewlines": 180,
     "maxTextLength": 1980,
     "alwaysUnlocked": true,
