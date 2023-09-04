@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Black Infinite Message",
+    "name": "Blank Infinite Message",
     "descripion": "Can store an infinite number of characters.",
     "health": 120,
     "size": 1,
@@ -11,7 +11,7 @@
     "requirements": [
      "graphite/150",
      "copper/150",
-     "silicon/100",
+     "silicon/150",
      "sandbox-utilities-black/100",
      "sandbox-utilities-white/50",
      "sandbox-utilities-cyan/50",

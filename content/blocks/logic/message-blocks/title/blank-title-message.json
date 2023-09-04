@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Black Title Message",
+    "name": "Blank Title Message",
     "health": 40,
     "size": 1,
     "maxTextLength": 440,
@@ -8,7 +8,7 @@
     "requirements": [
         "copper/5",
         "graphite/5",
-        "silicon/2",
+        "silicon/5",
         "sandbox-utilities-black/5"
     ],
     "rotate": true,
