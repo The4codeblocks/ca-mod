@@ -1,16 +1,14 @@
 {    
     "type": "LogicDisplay",
-    "name": "Test Display",
-    "health": 800,
+    "name": "Floor Emulator",
+    "health": 40,
     "size": 1,
     "displaySize": 96,
-    "buildVisibility": "hidden",
+    "buildVisibility": "shown",
     "requirements": [
-     "lead/24",
-     "silicon/50",
-     "metaglass/50"
+        "silicon/100",
+        "metaglass/50"
     ],
-    "rotate": true,
     "category": "logic",
     "research": {
     
