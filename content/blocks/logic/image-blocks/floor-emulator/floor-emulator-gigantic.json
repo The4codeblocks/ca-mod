@@ -3,7 +3,7 @@
     "name": "Gigantic Floor Emulator",
     "health": 40,
     "size": 1,
-    "displaySize": 320,
+    "displaySize": 288,
     "buildVisibility": "shown",
     "requirements": [
         "silicon/100",
