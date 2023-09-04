@@ -1,0 +1,18 @@
+{    
+    "type": "LogicDisplay",
+    "name": "Test Display",
+    "health": 800,
+    "size": 1,
+    "displaySize": 96,
+    "buildVisibility": "hidden",
+    "requirements": [
+     "lead/24",
+     "silicon/50",
+     "metaglass/50"
+    ],
+    "rotate": true,
+    "category": "logic",
+    "research": {
+    
+    }
+}
