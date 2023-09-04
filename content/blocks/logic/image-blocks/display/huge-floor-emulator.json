@@ -1,0 +1,16 @@
+{    
+    "type": "LogicDisplay",
+    "name": "Floor Emulator",
+    "health": 40,
+    "size": 1,
+    "displaySize": 96,
+    "buildVisibility": "shown",
+    "requirements": [
+        "silicon/100",
+        "metaglass/50"
+    ],
+    "category": "logic",
+    "research": {
+    
+    }
+}
