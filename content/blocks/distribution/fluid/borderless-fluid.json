@@ -9,6 +9,7 @@
      "graphite/2",
      "sandbox-utilities-invisible/6"
     ],
+    "liquidCapacity": 200,
     "category": "liquid",
     "research": {
     
