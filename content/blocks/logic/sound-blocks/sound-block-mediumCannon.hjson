@@ -4,7 +4,7 @@
 "type": "powerTurret",
 "type": "powerTurret",
 "health": 40,
-"name": "Sound Block",
+"name": "Sound Block \"mediumCannon\"",
 "description": "Makes a certain noise.",
 "alwaysUnlocked": true,
 "top": true,
